@@ -4,7 +4,7 @@
 Website : https://www.gumtree.com/cars/uk?vehicle_seats=5
 
 ### Scrape your own data
-If you want to scrape your own data from gumtree,paste your baselink and sublink in these variables
+If you want to scrape your own data from gumtree,paste your baselink and sublink in these variables that are located inside the script
 
 pages_base_link = 'baselink'
 
